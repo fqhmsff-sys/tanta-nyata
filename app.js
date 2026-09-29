@@ -22,15 +22,15 @@ const challenges = [
     description: "Temui Faqih dan ucapkan kalimat yang telah ditentukan.",
     start: "2026-10-02T10:10:00+07:00",
     end: "2026-10-02T11:00:00+07:00",
-    startText: "Jumat, 2 Oktober 2026 — 10.10 WIB",
-    endText: "Jumat, 2 Oktober 2026 — 11.00 WIB",
+    startText: "Jumat, 2 Oktober 2026 — 13.00 WIB",
+    endText: "Jumat, 2 Oktober 2026 — 14.00 WIB",
     prize: "Rp50.000",
     winnersCount: 1,
     method: [
       "Temui Faqih secara langsung pada waktu yang telah ditentukan.",
       "Ucapkan kalimat yang sudah ditentukan dengan suara yang jelas dan terdengar."
     ],
-    quote: "Faqih ganteng, I love you.",
+    quote: "Faqih ganteng, imut, lucu, gemes, I love you.",
     rules: [
       "Tantangan harus dilakukan sesuai waktu yang telah ditentukan.",
       "Peserta harus bertemu dan berbicara langsung di depan Faqih.",
