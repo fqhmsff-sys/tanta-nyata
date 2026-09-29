@@ -18,12 +18,12 @@ const INSTAGRAM = {
 const challenges = [
   {
     id: "01",
-    title: "xxx",
+    title: "Faqih ganteng, i love u",
     description: "Temui Faqih dan ucapkan kalimat yang telah ditentukan.",
     start: "2026-10-02T10:10:00+07:00",
     end: "2026-10-02T11:00:00+07:00",
-    startText: "xxx, xxx Oktober 2026 — xxx WIB",
-    endText: "xxx, xxx Oktober 2026 — xxx WIB",
+    startText: "selasa, 29 septrmber 2026 — 14.00 WIB",
+    endText: "selasa, 29 Oktober 2026 — 15.00 WIB",
     prize: "Rpxxx",
     winnersCount: 1,
     method: [
