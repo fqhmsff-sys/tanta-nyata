@@ -24,7 +24,7 @@ const challenges = [
     end: "2026-10-02T11:00:00+07:00",
     startText: "xxx, xxx Oktober 2026 — xxx WIB",
     endText: "xxx, xxx Oktober 2026 — xxx WIB",
-    prize: "Rp50.000",
+    prize: "Rpxxx",
     winnersCount: 1,
     method: [
       "Temui Faqih secara langsung pada waktu yang telah ditentukan.",
