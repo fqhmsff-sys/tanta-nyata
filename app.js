@@ -18,12 +18,12 @@ const INSTAGRAM = {
 const challenges = [
   {
     id: "01",
-    title: "Bicara",
+    title: "xxx",
     description: "Temui Faqih dan ucapkan kalimat yang telah ditentukan.",
     start: "2026-10-02T10:10:00+07:00",
     end: "2026-10-02T11:00:00+07:00",
-    startText: "Jumat, 2 Oktober 2026 — 13.00 WIB",
-    endText: "Jumat, 2 Oktober 2026 — 14.00 WIB",
+    startText: "xxx, xxx Oktober 2026 — xxx WIB",
+    endText: "xxx, xxx Oktober 2026 — xxx WIB",
     prize: "Rp50.000",
     winnersCount: 1,
     method: [
