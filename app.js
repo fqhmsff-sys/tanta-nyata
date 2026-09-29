@@ -30,7 +30,7 @@ const challenges = [
       "Temui Faqih secara langsung pada waktu yang telah ditentukan.",
       "Ucapkan kalimat yang sudah ditentukan dengan suara yang jelas dan terdengar."
     ],
-    quote: "Faqih ganteng, imut, lucu, gemes, I love you.",
+    quote: "xxx",
     rules: [
       "Tantangan harus dilakukan sesuai waktu yang telah ditentukan.",
       "Peserta harus bertemu dan berbicara langsung di depan Faqih.",
