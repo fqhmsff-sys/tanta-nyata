@@ -44,7 +44,7 @@ const challenges = [
       type: "direct",
       text: "Karena tantangan ini mengharuskan peserta bertemu langsung dengan Faqih, hadiah diberikan langsung kepada pemenang setelah tantangan dinyatakan berhasil."
     },
-    winner: null
+    winner: Jacob
   }
 ];
 
