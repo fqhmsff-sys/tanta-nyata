@@ -58,7 +58,7 @@ const challenges = [
       "Sampaikan dengan tulus dan langsung, bukan sekadar untuk menyelesaikan tantangan.",
       "Kalau memungkinkan, lanjutkan dengan mengobrol, mengucapkan terima kasih, atau melakukan hal baik bersama keluarga."
     ],
-    quote: "I love you, keluarga.",
+    quote: "I love you",
     rules: [
       "Tantangan dimulai pada 30 September 2026 pukul 00.00 WIB.",
       "Tantangan tidak memiliki batas waktu dan berlangsung Infinity.",
